@@ -1,2 +1,2 @@
 It is so a planet
-This line was added on our desktop
+This line was added to show how conflicts work
